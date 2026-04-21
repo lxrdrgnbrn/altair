@@ -361,7 +361,7 @@ a {
 .stat-number {
   font-size: 32px;
   font-weight: 700;
-  color: var(--accent);
+  color: #FFD240;
 }
 
 .stat-text {

@@ -175,7 +175,7 @@ a {
 
 .hero h1 {
   font-family: "Bebas Neue", sans-serif;
-  font-size: clamp(36px, 5vw, 72px);
+  font-size: clamp(36px, 5vw, 56px);
   line-height: 1;
   margin-bottom: 20px;
 }
